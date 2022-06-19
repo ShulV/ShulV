@@ -1,4 +1,4 @@
-### Hi all,I am learning new technologies I'm Victor👋
+### Hi all, I'm Victor👋
 ---
 ## I'm a IT faculty student!
 
