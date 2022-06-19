@@ -1,8 +1,16 @@
-### Hi all, I'm Victor👋
+### Hi all,I am learning new technologies I'm Victor👋
+---
+## I'm a IT faculty student!
+
+- 📍 I’m From Russia (Barnaul)
+- 🏫 4th year university (bachelor)
+- 💻 I enjoy programming
+- 📚 I'm learning new technologies
+- 🎸 I like to play guitar
 ---
 ### 🤝 Connect with me:
 
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="Victor Shulpov| Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Victor Shulpov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 ---
 
