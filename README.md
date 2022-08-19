@@ -1,6 +1,6 @@
 ### Hi all, I'm Victor👋
 ---
-## I'm a IT faculty student!
+### I'm a IT faculty student!
 
 - 📍 I’m From Russia (Barnaul)
 - 🏫 4th year university (bachelor)
