@@ -1,8 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
 📍 I’m From Russia (Barnaul)<br>🏫 4th year university (bachelor)<br>💻 I enjoy programming<br>📚 I'm learning new technologies<br>🎸 I like to play guitar
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
@@ -25,14 +25,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShulV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShulV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShulV&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 [<img alt="Victor Shulpov| Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Victor Shulpov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
