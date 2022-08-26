@@ -1,6 +1,10 @@
 ## 💫 About Me:
-📍 I’m From Russia (Barnaul)<br>🏫 4th year university (bachelor)<br>💻 I enjoy programming<br>📚 I'm learning new technologies<br>🎸 I like to play guitar
-
+📍 I’m From Russia (Barnaul)<br>
+⚡️ 21 years old
+🏫 4th year university (bachelor)<br>
+💻 I enjoy programming<br>
+📚 I'm learning new technologies<br>
+🎸 I like to play guitar
 
 ## 💻 Tech Stack:
 
