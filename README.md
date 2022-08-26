@@ -1,5 +1,5 @@
 ## 💫 About Me:
-📍 I’m From Russia (Barnaul)<br>
+🚩 I’m From Russia (Barnaul)<br>
 ⚡️ 21 years old<br>
 🏫 4th year university (bachelor)<br>
 💻 I enjoy programming<br>
