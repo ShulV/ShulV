@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 About Me (<a href="https://github.com/ShulV/Info-about-me/blob/main/README.md">MORE ABOUT ME</a>):
 🚩 I’m from Russia (Barnaul)<br>
 ⚡️ 21 years old<br>
 🏫 4th year university (bachelor)<br>
