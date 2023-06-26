@@ -1,7 +1,7 @@
 ## 💫 About Me (<a href="https://github.com/ShulV/Info-about-me/blob/main/README.md">MORE ABOUT ME</a>):
 🚩 I’m from Russia (Barnaul)<br>
 ⚡️ 21 years old<br>
-🏫 4th year university (bachelor)<br>
+🏫 software engineering bachelor<br>
 💻 I enjoy programming<br>
 📚 I'm learning new technologies<br>
 🎸 I like to play guitar
@@ -46,10 +46,8 @@
 ---
 ## 🤝 Connect with me:
 
-[<img alt="Victor Shulpov| Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Victor Shulpov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 
-[instagram]: https://instagram.com/Shullllllllllll
 [vk]: https://vk.com/v.shulpov
 
 
