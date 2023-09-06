@@ -1,6 +1,6 @@
 ## 💫 About Me (<a href="https://github.com/ShulV/Info-about-me/blob/main/README.md">MORE ABOUT ME</a>):
 🚩 I’m from Russia (Barnaul)<br>
-⚡️ 21 years old<br>
+⚡️ 22 years old<br>
 🏫 software engineering bachelor<br>
 💻 I enjoy programming<br>
 📚 I'm learning new technologies<br>
