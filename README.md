@@ -8,7 +8,7 @@
 
 
 ## 💼 Working 
-📌Java Junior Developer: 16.08.2023 - current time
+📌Java Developer: 16.08.2023 - current time
 <br>
   Company: https://soft-logic.ru/, project: SmartKeeper
 
