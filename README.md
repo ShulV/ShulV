@@ -6,9 +6,11 @@
 📚 I'm learning new technologies<br>
 🎸 I like to play guitar
 
+
 ## 💼 Working 
 📌Java Junior Developer: 16.08.2023 - current time
   Compnay: https://soft-logic.ru/, project: SmartKeeper
+
 
 ## 💻 Tech Stack:
 
