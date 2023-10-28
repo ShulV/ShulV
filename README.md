@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <script>
-      const workingTime = new Date();
-      document.getElementById("workingTime").textContent = workingTime.toDateString();
-    </script>
-</head>
-<body>
     ## 💫 About Me (<a href="https://github.com/ShulV/Info-about-me/blob/main/README.md">MORE ABOUT ME</a>):
 🚩 I’m from Russia (Barnaul)<br>
 ⚡️ 22 years old<br>
@@ -17,7 +8,7 @@
 
 
 ## 💼 Working 
-📌Java Developer: 16.08.2023 - current time (<span id="workingTime"></span>)
+📌Java Developer: 16.08.2023 - current time
 <br>
   Company: https://soft-logic.ru/, project: SmartKeeper
 
@@ -63,5 +54,3 @@
 [<img alt="Victor Shulpov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 
 [vk]: https://vk.com/v.shulpov
-</body>
-</html>
