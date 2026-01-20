@@ -7,11 +7,6 @@
 🎸 I like to play guitar
 
 
-## 💼 Working 
-📌Java Developer: 16.08.2023 - current time
-<br>
-  Company: https://soft-logic.ru/, project: SmartKeeper
-
 
 ## 💻 Tech Stack:
 
