@@ -15,5 +15,5 @@
 
 
 ### 🤝 Connect with me:
-telegram: @shulv22
-email: shulv22@yandex.ru
+- telegram: @shulv22
+- email: shulv22@yandex.ru
