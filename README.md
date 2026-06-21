@@ -33,4 +33,4 @@
 
 
 ### 🤝 Connect with me:
-<a href="https://t.me/shulv22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
+<a href="https://t.me/shulv22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="telegram"></a>
