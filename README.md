@@ -22,7 +22,9 @@
 
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)](#)
 
+## Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vshulpov?ext=contest)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShulV&theme=dark&hide_border=false)
@@ -31,4 +33,4 @@
 
 
 ### 🤝 Connect with me:
-<a href="https://t.me/shulv22"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+<a href="https://t.me/shulv22">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)</a>
